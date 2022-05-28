@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "taskName": "do assignment",
+        "startDate": "25-05-2022 09:00",
+        "endDate": "27-05-2022 9:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 2,
+        "taskName": "React JS",
+        "startDate": "20-03-2021 09:00",
+        "endDate": "27-05-2021 09:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 3,
+        "taskName": "HTML",
+        "startDate": "15-10-2019 10:00",
+        "endDate": "02-10-2019 12:00",
+        "status": "not yet",
+        "priority": "high"
+    },
+    {
+        "id": 4,
+        "taskName": "CSS",
+        "startDate": "20-10-2019 10:00",
+        "endDate": "02-10-2019 12:00",
+        "status": "not yet",
+        "priority": "high"
+    },
+    {
+        "id": 5,
+        "taskName": "Bootstrap",
+        "startDate": "25-10-2019 09:00",
+        "endDate": "26-10-2019 12:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 6,
+        "taskName": "JavaScript",
+        "startDate": "10-10-2021 09:00",
+        "endDate": "27-10-2021 03:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 7,
+        "taskName": "Mongo-DB",
+        "startDate": "25-10-2021 09:00",
+        "endDate": "27-10-2021 11:00",
+        "status": "in progress",
+        "priority": "high"
+    },
+    {
+        "id": 8,
+        "taskName": "Node-JS",
+        "startDate": "20-05-2022 03:00",
+        "endDate": "10-06-2022 05:00",
+        "status": "not yet",
+        "priority": "medium"
+    },
+    {
+        "id": 9,
+        "taskName": "Express-JS",
+        "startDate": "15-06-2022 03:00",
+        "endDate": "30-06-2022 05:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 10,
+        "taskName": "Angular-JS",
+        "startDate": "21-06-2022 09:00",
+        "endDate": "10-07-2022 12:00",
+        "status": "in progress",
+        "priority": "low"
+    },
+    {
+        "id": 11,
+        "taskName": "Firebase",
+        "startDate": "20-07-2022 09:00",
+        "endDate": "20-07-2022 9:00",
+        "status": "not yet",
+        "priority": "low"
+    },
+    {
+        "id": 12,
+        "taskName": "Cooking",
+        "startDate": "25-11-2015 09:00",
+        "endDate": "27-05-2022 12:00",
+        "status": "completed",
+        "priority": "high"
+    },
+    {
+        "id": 13,
+        "taskName": "Shopping",
+        "startDate": "16-11-2021 05:00",
+        "endDate": "18-11-2021 03:00",
+        "status": "in progress",
+        "priority": "low"
+    },
+    {
+        "id": 14,
+        "taskName": "Doctor's Appointment",
+        "startDate": "25-05-2021 05:00",
+        "endDate": "20-02-2022 07:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 15,
+        "taskName": "Interview's",
+        "startDate": "25-02-2022 09:00",
+        "endDate": "27-05-2022 09:00",
+        "status": "in progress",
+        "priority": "medium"
+    },
+    {
+        "id": 16,
+        "taskName": "Farm",
+        "startDate": "25-05-2021 09:00",
+        "endDate": "27-05-2025 03:00",
+        "status": "not yet",
+        "priority": "high"
+    },
+    {
+        "id": 17,
+        "taskName": "Carrom",
+        "startDate": "25-05-2015 09:00",
+        "endDate": "02-10-2015 04:00",
+        "status": "in progress",
+        "priority": "medium"
+    },
+    {
+        "id": 18,
+        "taskName": "Entered and Exit",
+        "startDate": "15-08-2014 10:00",
+        "endDate": "10-01-2015 01:00",
+        "status": "completed",
+        "priority": "medium"
+    },
+    {
+        "id": 19,
+        "taskName": "Construction Work",
+        "startDate": "02-01-2018 06:00",
+        "endDate": "27-05-2023 10:00",
+        "status": "not yet",
+        "priority": "medium"
+    },
+    {
+        "id": 20,
+        "taskName": "Road Work",
+        "startDate": "25-03-2022 07:00",
+        "endDate": "27-03-2022 09:00",
+        "status": "in progress",
+        "priority": "medium"
+    },
+    {
+        "id": 21,
+        "taskName": "New Building",
+        "startDate": "15-03-2020 07:00",
+        "endDate": "27-03-2022 09:00",
+        "status": "not yet",
+        "priority": "medium"
+    }
+]

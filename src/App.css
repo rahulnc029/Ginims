@@ -1,0 +1,59 @@
+.App-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+  font-size: 25px;
+}
+
+th {
+  background-color: rgb(248, 208, 156);
+}
+
+td {
+  background-color: rgb(247, 238, 227);
+}
+
+form {
+  display: flex;
+  gap: 5px;
+
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 20px;
+}
+
+.addForm {
+  display: flex;
+  margin-left: 100px;
+}
+
+input[type=number] {
+  width: 50px;
+}
+
+.search {
+  margin: 10px;
+}
+
+.search input {
+  font-size: 25px;
+}
